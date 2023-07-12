@@ -1,4 +1,4 @@
-# My name is Justin Ansardi. I am a full stack .Net kind of dude.
+# My name is Justin Ansardi. ⚡ I am a full stack .Net kind of dude.
 
 ## Feel free to check out the Maelstrom project if you want to learn more about:
 
@@ -11,5 +11,4 @@
 
 Feel free to contact me if you have any questions. I will be happy to help you with your .Net projects.
 
-- ⚡ Fun fact: ...
--->
+⚡ 
