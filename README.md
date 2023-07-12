@@ -5,7 +5,7 @@
 ### Extending Microsoft Identity into individual user logins
 ### Dependency Inversion in ASP.Net Core
 ### Razor Pages
-###LINQ to EFcore 
+### LINQ to EFcore 
 ### Bootstrap 5.1
 
 
